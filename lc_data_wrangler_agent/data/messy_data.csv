@@ -1,0 +1,12 @@
+id,date,email,message,comments,mostly_empty
+1,2025-01-05,Alice@example.COM,"Hello world","First entry",
+2,05-02-2025,bob@EXAMPLE.com,"Another entry","",
+2,05-02-2025,bob@EXAMPLE.com,"Another entry","",
+3,2025/03/07,charlie@example,"Missing domain","Needs domain",
+4,March 8 2025, dave@example.com ," trailing space"," ",
+5,,eve@domain.com,"No date","Missing date",
+6,2025-04-01,,,"No email and message",
+7,04-01-2025,frank@example.com,"Different date format","", 
+8,2025-04-01,Grace@Example.CoM,"Mixed case email","", 
+9,2025-01-05,Alice@example.COM,"Hello world","First entry",
+10,2025-01-05,Alice@example.COM,"Hello world","First entry",

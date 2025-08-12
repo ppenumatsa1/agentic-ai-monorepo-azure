@@ -1,0 +1,6 @@
+user_id,name,email,signup_date
+1,Alice,alice@example.com,2025-01-15
+2,Bob,bob@example.com,2025-02-10
+3,Charlie,charlie@example.com,2025-02-25
+4,Diana,diana@example.com,2025-03-01
+5,Eve,eve@example.com,2025-03-10
