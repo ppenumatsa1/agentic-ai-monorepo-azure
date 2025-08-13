@@ -19,6 +19,8 @@ This monorepo showcases the art of possible with modern agent frameworks, includ
 | [`lc_todo_agent`](./lc_todo_agent/)                   | AI-powered to-do list agent (LangChain)             | [README](./lc_todo_agent/README.md)          |
 | [`lg_faq_agent`](./lg_faq_agent/)                     | FAQ bot with local DB and LLM fallback (LangGraph)  | [README](./lg_faq_agent/README.md)           |
 | [`lg_tutor_agent`](./lg_tutor_agent/)                 | Math tutor agent with adaptive feedback (LangGraph) | [README](./lg_tutor_agent/README.md)         |
+| [`ci_faq_agent`](./ci_faq_agent/)                     | FAQ bot with local DB and LLM fallback (CrewAI)     | [README](./ci_faq_agent/README.md)           |
+| [`ci_research_agent`](./ci_research_agent/)           | Research and blog-writing agent (CrewAI)            | [README](./ci_research_agent/README.md)      |
 | ...                                                   | More agent demos coming soon                        |                                              |
 
 ## General Overview
